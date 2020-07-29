@@ -1,0 +1,88 @@
+h2 {
+    border-bottom: 1px solid #31A263;
+    text-align: center;
+}
+
+p {  
+    text-align: center;
+}
+.mypage {
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 10px 10px 4px gray;
+    width: 800px;
+    height: 500px;
+    border: 4px solid gray;
+    line-height: 50px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.submit-button1 {
+    color: white;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+    background-color: #c0c0c0;
+    color: white;
+    float: left;
+    margin-left: 275px;    
+}
+
+.submit-button2 {
+    margin-left: 10px;
+    color: white;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+    background-color: springgreen;
+    color: white;
+    float: left;
+}
+
+ 
+.submit-button1, .submit-button2 {
+    height: 40px;
+    width: 120px;
+    margin-top: 20px;
+    box-shadow: 0px 5px 8px lightgray;
+    font-size: 13px;
+}
+
+.touroku {
+    margin-left: 30px;
+    margin-top: 0px;
+}
+
+header {
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    box-shadow: 2px 2px 4px lightgray;
+    text-align: center;
+}
+
+header img{
+    margin-top: 15px;
+    height:50px;
+    padding-left: 40px;
+}
+
+footer {
+    width: 100%;
+    height: 40px;
+    background-color: white;
+    color: gray;
+    text-align: center;
+    line-height: 40px;
+    font-size: 13px;
+    border-top: lightgray solid 2px;
+}
+
+.login {
+    float: right;
+    margin-top: 50px;
+    margin-right: 20px;
+    font-size: 14px;
+}
